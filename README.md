@@ -9,7 +9,7 @@ Provides a simple example of a custom CXF feature that can be used within Axon.i
 Download or clone the latest **CXF Feature Example** project [here] (https://github.com/ivy-samples/cxf-feature-sample.git)!
 
 ## Local Build
-    mvn clean verify
+    mvn clean install
 
 ## Installation
 1. Add the generated jar file cxf-feature-sample-0.1.0.jar file to your Axon.ivy project classpath.
