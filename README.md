@@ -4,6 +4,7 @@ Provides a simple example of a custom CXF feature that can be used within Axon.i
 ## Requirements
 * Java 8.
 * Maven 3 or later for building.
+* Axon.ivy Designer version 7.1.0 or later.
 
 ## Download
 Download or clone the latest **CXF Feature Example** project [here] (https://github.com/ivy-samples/cxf-feature-sample.git)!
