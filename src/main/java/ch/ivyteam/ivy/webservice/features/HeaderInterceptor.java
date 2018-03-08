@@ -27,7 +27,7 @@ class HeaderInterceptor extends AbstractPhaseInterceptor<Message>
   @Override
   public void handleMessage(Message message)
   {
-    // Properties configured for the Web Service can be access the following way:
+    // Properties configured for the Web Service Client can be accessed the following way:
     // String myPropertyValue = (String) message.getContextualProperty("myPropertyName");
 
     @SuppressWarnings("unchecked")
